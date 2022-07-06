@@ -28,3 +28,17 @@ body {
     padding: 10px 15px;
     border-radius: 3px;
 }
+
+.footer {
+    text-align: center;
+    padding: 15px 50px;
+    background-color: black;
+}
+
+.footer-text {
+    color: wheat;
+    font-size: 8px;
+    top: 3%;
+    padding: 0;
+
+}
