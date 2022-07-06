@@ -34,11 +34,11 @@ body {
     float: left;
     background-color: rgb(245, 239, 239);
     text-align: center;
-    padding: 20px;
-    padding-left: 20px;
+    padding: 10px;
+
     display: flex;
-    width: 100%;
-    margin: 0%;
+    width: 15%;
+    margin: 30px;
     border: 10px;
     border-radius: 15px;
     border-color: aqua;
@@ -75,6 +75,40 @@ body {
 
 
 
+
+}
+
+.column {
+    float: left;
+    width: 33.33% padding: 10px;
+    height: 200px;
+
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+#food {
+    background-color: aqua;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#shelter {
+    background-color: lightpink;
+
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#education {
+    background-color: bisque;
+    margin-left: 10px;
+    margin-right: 5px;
 
 }
 
