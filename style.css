@@ -66,6 +66,24 @@ body {
     display: flex;
 }
 
+.email {
+    width: 100%;
+    padding: 40px;
+    background-color: beige;
+
+    text-align: center;
+
+
+
+
+}
+
+.subscribe {
+    background-image: linear-gradient(red, tomato);
+    color: white;
+
+}
+
 .footer {
     text-align: center;
     padding: 15px 50px;
